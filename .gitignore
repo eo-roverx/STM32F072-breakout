@@ -2,3 +2,4 @@ STM32F072-breakout-backups
 *.lck
 \#auto_saved_files#
 *.pdf
+exp
